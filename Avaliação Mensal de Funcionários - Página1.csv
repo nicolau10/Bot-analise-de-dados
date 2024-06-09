@@ -1,0 +1,73 @@
+Cargo,Setor,Salário Bruto,Tipo de Contratação,Carga Horária por dia,Formação,Idade,NPS interno
+Cientista de Dados,Dados,6000,CLT,8,Bacharel,24,9
+Cientista de Dados,Dados,6500,CLT,8,Bacharel,26,"9,6"
+Analista de Dados,Dados,5000,CLT,8,Bacharel,29,8
+Analista de Dados,Dados,5800,CLT,8,Bacharel,36,9
+Analista de Dados,Dados,7000,CLT,8,Bacharel,32,"9,4"
+Engenheiro de Dados,Dados,9000,CLT,8,Bacharel,35,9
+Engenheiro de Dados,Dados,12000,CLT,8,Bacharel,38,"9,8"
+Tech Lead,Dados,16000,CLT,8,Mestre,42,"9,7"
+Analista de Marketing,Marketing,3000,CLT,8,Bacharel,34,8
+Analista de Marketing,Marketing,4000,CLT,8,Mestre,36,"9,1"
+Gerente de Marketing,Marketing,6000,CLT,8,Bacharel,46,9
+Coordenador de Marketing,Marketing,8000,CLT,8,Bacharel,45,9
+Gerente Comercial,Marketing,8000,CLT,8,Bacharel,32,"9,4"
+Gerente Comercial,Marketing,8000,CLT,8,Bacharel,40,"9,6"
+Gerente Comercial,Marketing,8000,CLT,8,Bacharel,23,"8,5"
+Engenheiro Fullstack,Engenharia de Software,9000,CLT,8,Bacharel,25,9
+Engenheiro Fullstack,Engenharia de Software,12000,CLT,8,Bacharel,30,"8,9"
+Engenheiro Fullstack,Engenharia de Software,8000,CLT,8,Bacharel,27,"9,6"
+Tech Lead,Engenharia de Software,14000,CLT,8,Bacharel,29,9
+Engenheiro FrontEnd,Engenharia de Software,6000,CLT,8,Bacharel,29,9
+Engenheiro BackEnd,Engenheiro de Software,9000,CLT,8,Bacharel,38,"8,5"
+Analista Administrativo,Adm-Fin,7000,CLT,8,Bacharel,38,9
+Analista Administrativo,Adm-Fin,6000,CLT,8,Bacharel,40,9
+Analista Administrativo,Adm-Fin,10000,CLT,8,Bacharel,48,"8,7"
+Gerente Administrativo,Adm-Fin,13000,CLT,8,Bacharel,52,"8,9"
+Coordenador Administrativo,Adm-Fin,11000,CLT,8,Bacharel,42,"8,9"
+Cientista de Dados,Dados,6000,CLT,8,Bacharel,24,9
+Cientista de Dados,Dados,6500,CLT,8,Bacharel,26,"9,6"
+Analista de Dados,Dados,5000,CLT,8,Bacharel,29,8
+Analista de Dados,Dados,5800,CLT,8,Bacharel,36,9
+Analista de Dados,Dados,7000,CLT,8,Mestre,32,"9,4"
+Engenheiro de Dados,Dados,9000,CLT,8,Mestre,35,9
+Engenheiro de Dados,Dados,12000,CLT,8,Mestre,38,"9,8"
+Tech Lead,Dados,16000,CLT,8,Mestre,42,"9,7"
+Estagiario de Dados,Dados,1000,Estágio,6,Bacharel,42,"9,7"
+Estagiario de Dados,Dados,1000,Estágio,6,Bacharel,42,"9,7"
+Cientista de Dados,Dados,10000,PJ,8,Bacharel,24,9
+Cientista de Dados,Dados,9000,PJ,8,Bacharel,26,"9,6"
+Analista de Dados,Dados,6000,PJ,8,Bacharel,29,8
+Analista de Dados,Dados,7000,PJ,8,Bacharel,36,9
+Analista de Dados,Dados,6500,PJ,8,Bacharel,32,"9,4"
+Engenheiro de Dados,Dados,12000,PJ,8,Bacharel,35,9
+Engenheiro de Dados,Dados,14000,PJ,8,Bacharel,38,"9,8"
+Tech Lead,Dados,20000,PJ,8,Doutorado,42,"9,7"
+Cientista de Dados,Dados,10000,PJ,8,Bacharel,24,9
+Cientista de Dados,Dados,9000,PJ,8,Bacharel,26,"9,6"
+Analista de Dados,Dados,6000,PJ,8,Bacharel,29,8
+Analista de Dados,Dados,7000,PJ,8,Bacharel,36,9
+Analista de Dados,Dados,6500,PJ,8,Bacharel,48,"9,4"
+Engenheiro de Dados,Dados,12000,PJ,8,Mestre,35,9
+Engenheiro de Dados,Dados,14000,PJ,8,Mestre,38,"9,8"
+Tech Lead,Dados,20000,PJ,8,Mestre,42,"9,7"
+Tech Lead,Dados,20000,PJ,8,Doutorado,42,"9,7"
+Engenheiro Fullstack,Engenharia de Software,9000,CLT,8,Bacharel,25,9
+Engenheiro Fullstack,Engenharia de Software,12000,CLT,8,Bacharel,30,"8,9"
+Engenheiro Fullstack,Engenharia de Software,8000,CLT,8,Bacharel,27,"9,6"
+Tech Lead,Engenharia de Software,14000,CLT,8,Bacharel,29,9
+Engenheiro FrontEnd,Engenharia de Software,6000,CLT,8,Bacharel,29,9
+Engenheiro BackEnd,Engenheiro de Software,9000,CLT,8,Bacharel,38,"8,5"
+Engenheiro Fullstack,Engenharia de Software,10000,PJ,8,Mestre,25,9
+Engenheiro Fullstack,Engenharia de Software,12000,PJ,8,Bacharel,30,"8,9"
+Engenheiro Fullstack,Engenharia de Software,9000,PJ,8,Bacharel,27,"9,6"
+Tech Lead,Engenharia de Software,18000,PJ,8,Doutorado,29,9
+Engenheiro FrontEnd,Engenharia de Software,6000,PJ,8,Mestre,29,9
+Engenheiro BackEnd,Engenheiro de Software,9000,PJ,8,Bacharel,38,"8,5"
+Analista de Marketing,Marketing,4000,PJ,8,Bacharel,34,8
+Analista de Marketing,Marketing,6000,PJ,8,Mestre,40,"9,1"
+Gerente de Marketing,Marketing,6000,CLT,8,Bacharel,46,9
+Coordenador de Marketing,Marketing,8000,CLT,8,Bacharel,45,9
+Gerente Comercial,Marketing,8000,CLT,8,Bacharel,32,"9,4"
+Gerente Comercial,Marketing,8000,CLT,8,Bacharel,40,"9,6"
+Gerente Comercial,Marketing,8000,CLT,8,Bacharel,23,"8,5"
